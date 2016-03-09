@@ -1,0 +1,54 @@
+body{
+	background-color: black;
+	color: grey;
+	text-align: center;
+	font-family: "Arial";
+}
+
+h1{
+	font-size: 300%;
+	color: white;
+}
+
+h2{
+	color: #CCCCCC;
+}
+
+p{
+	width: 700px;	
+	margin: auto;
+	text-align: justify;
+}
+
+#game{
+	width: 800px;
+	height: 250px;
+	margin: auto;
+	background-color: black; 
+	display: flex;
+	padding: 0 20px 0 20px;
+	align-items: center;
+	justify-content: space-between; 
+}
+
+.dispo{
+	width: 30px;
+	height: 150px;
+	background-color: #FFC531;
+	border-radius: 5px;
+}
+
+.dispoHover{
+	width: 30px;
+	height: 150px;
+	background-color: #CA4C26;
+	border-radius: 5px;
+}
+
+.retirer{
+	width: 30px;
+	height: 150px;
+	background-color: black;
+	border-radius: 5px;
+}
+
